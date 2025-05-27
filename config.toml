@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://mrkaran.dev/"
-title = "Karan Sharma"
+title = "Harish Sambasivam"
 description = "Ramblings on programming, tech and life."
 generate_feeds = false
 feed_filenames = ["atom.xml"] # default template
