@@ -42,7 +42,3 @@ url = "@/cycling/_index.md"
 [[extra.main_menu]]
 name = "Art"
 url = "@/art/_index.md"
-
-[[extra.main_menu]]
-name = "Contact"
-url = "@/contact.md"
