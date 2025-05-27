@@ -10,9 +10,9 @@ title = "Home"
 
 I'm Harish — but you might stumble across `@harishsambasivam` in some corners of the internet. I spend most of my time building backend systems, thinking about scale, observability, and the calm beauty of well-architected infrastructure.
 
-I like to [tinker](https://github.com/harishsambasivam) with distributed systems, monitoring, and the occasional side projects that makes me think.
+I enjoy tinkering with distributed systems, monitoring, and the occasional side project that makes me pause and think.
 
-Outside of work, I’m happiest with soil on my hands — a natural farming enthusiast trying to grow slow and steady in my backyard garden. I’m learning the flute, one breath at a day 😂, and I love getting around on my cycle 🚲. Most evenings, you’ll find me on the Kollidam river bridge, watching fishermen work and birds 🦢 drift by. It’s where things feel still — and full of life.
+Outside of work, I’m happiest with soil on my hands — a natural farming enthusiast trying to grow slow and steady in my backyard garden. I’m learning the flute, one breath at a day 😂, and I love getting around on my cycle 🚲. Most evenings, you’ll find me on the Kollidam river bridge, watching fishermen work and birds 🦢 drift by. It’s where things feel still — and full of life for me.
 
   </div>
 
@@ -24,6 +24,6 @@ Outside of work, I’m happiest with soil on my hands — a natural farming enth
 
 ## ⭐ Featured Posts
 
-A curated collection of my top articles from over the years:
+A curated collection of my articles:
 
-* [Logging in Node.js](@/posts/logging-in-nodejs.md)
+* [Logging in Node.js](@/engineering/logging-in-nodejs.md)
