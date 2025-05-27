@@ -8,11 +8,11 @@ title = "Home"
 
   <div class="home-content">
 
-I'm Harish — but you might stumble across `@harishsambasivam` in some corners of the internet. I spend most of my time building backend systems, thinking about scale, observability, and the calm beauty of well-architected infrastructure.
+I'm Harish — but you might stumble across `@harishsambasivam` in some corners of the internet. I'm a backend engineer with experience building product features for B2B, SaaS companies. Currently, I'm building a GRC platform at Scrut.io, where I focus on scalable backend systems and infrastructure.
 
-I enjoy tinkering with distributed systems, monitoring, and the occasional side project that makes me pause and think.
+I like working on distributed systems, monitoring, and enjoy learning through side projects.
 
-Outside of work, I’m happiest with soil on my hands — a natural farming enthusiast trying to grow slow and steady in my backyard garden. I’m learning the flute, one breath at a day 😂, and I love getting around on my cycle 🚲. Most evenings, you’ll find me on the Kollidam river bridge, watching fishermen work and birds 🦢 drift by. It’s where things feel still — and full of life for me.
+When I'm not coding, you'll find me in my small backyard garden, trying to learn the flute, or cycling around village. I love spending quiet evenings and sometimes mornings by the nearby river #riverside #stories, watching the fishermen and birds go about their day.
 
   </div>
 
@@ -26,4 +26,4 @@ Outside of work, I’m happiest with soil on my hands — a natural farming enth
 
 A curated collection of my articles:
 
-* [Logging in Node.js](@/engineering/logging-in-nodejs.md)
+- [Logging in Node.js](@/engineering/logging-in-nodejs.md)
